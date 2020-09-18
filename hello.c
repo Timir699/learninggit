@@ -4,5 +4,6 @@ int main () {
 
     printf("this is branchB");
     printf("git branchA changed code");
+    printf("branchC created");
     return 0;
 }
