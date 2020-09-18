@@ -2,6 +2,6 @@
 int main () {
     printf("Vs Code is Awesome");
 
-    printf("git bracnch");
+    printf("git branchA changed code");
     return 0;
 }
